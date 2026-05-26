@@ -46,6 +46,7 @@ export function ContactSection() {
                   <p className="text-sm text-muted-foreground">Email</p>
                   <a
                     href="mailto:akashkhatale6067@gmail.com"
+                    rel="noopener noreferrer"
                     className="text-foreground hover:text-primary transition-colors"
                   >
                     akashkhatale6067@gmail.com
@@ -53,6 +54,7 @@ export function ContactSection() {
                   <br />
                   <a
                     href="mailto:akashkhatale2114@gmail.com"
+                    rel="noopener noreferrer"
                     className="text-foreground hover:text-primary transition-colors"
                   >
                     akashkhatale2114@gmail.com
@@ -68,6 +70,7 @@ export function ContactSection() {
                   <p className="text-sm text-muted-foreground">Phone</p>
                   <a
                     href="tel:+919373873065"
+                    rel="noopener noreferrer"
                     className="text-foreground hover:text-primary transition-colors"
                   >
                     +91-9373873065

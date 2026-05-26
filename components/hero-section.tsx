@@ -68,6 +68,7 @@ export function HeroSection() {
           </a>
           <a
             href="mailto:akashkhatale6067@gmail.com"
+            rel="noopener noreferrer"
             className="p-3 rounded-full border border-border bg-card hover:border-primary hover:text-primary transition-all duration-300 hover:neon-border"
             aria-label="Email"
           >
