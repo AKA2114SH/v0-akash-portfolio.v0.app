@@ -4,8 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // This line fix: it only adds the sub-folder if deploying to GitHub
-  basePath: process.env.NODE_ENV === 'production' && !process.env.VERCEL ? '/v0-akash-portfolio.v0.app' : '',
+  // This must match your repository name exactly as seen in your URL
+  basePath: '/v0-akash-portfolio.v0.app',
+  assetPrefix: '/v0-akash-portfolio.v0.app',
 }
 
 export default nextConfig
