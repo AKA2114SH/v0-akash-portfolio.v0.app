@@ -58,7 +58,7 @@ export function HeroSection() {
             <Linkedin size={24} />
           </a>
           <a
-            href="https://github.com/akashkhatale"
+            href="https://github.com/AKA2114SH"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full border border-border bg-card hover:border-primary hover:text-primary transition-all duration-300 hover:neon-border"
