@@ -1,0 +1,21 @@
+{
+  "name": "Akash Khatale Portfolio",
+  "short_name": "AK Portfolio",
+  "description": "Backend-focused Software Developer with hands-on experience building scalable APIs, data-driven systems, and full-stack applications.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#22d3ee",
+  "icons": [
+    {
+      "src": "/icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
