@@ -1,33 +1,36 @@
-# v0-akash-portfolio.v0.app
+# Hi there, I'm Akash! 👋
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+I am a Backend Engineer and DevOps enthusiast focused on building scalable system architectures, robust automation pipelines, and high-performance microservices.
 
-## Built with v0
+## 🚀 About Me
+- 🛠️ Currently specializing in **Backend Development & Infrastructure**.
+- 🐧 Daily driver: **Ubuntu Linux** for development, deployment, and systems management.
+- 🐳 Core focus on containerization, distributed systems, and automated task workflows.
+- 💡 Passionate about clean code, system architecture, and AI-assisted development paradigms ("vibe coding").
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, JavaScript / TypeScript
+- **Backend Frameworks:** Node.js, Express, FastAPI / Django
+- **DevOps & Cloud:** Docker, Kafka, Debezium, Git / GitLab, AWS (EC2)
+- **Databases:** PostgreSQL, MySQL, Redis
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_rcTQjZg4mwqJGILxhH7aISuHqHeV)
+## 🌟 Featured Projects
 
-## Getting Started
+### 🕒 Task Scheduling Service (TSS)
+A high-performance backend task management service optimized for production scheduling. Built and deployed via Docker on AWS EC2 instances, featuring automated task execution logs.
 
-First, run the development server:
+### ⛓️ Distributed Kafka Data Pipeline
+A local multi-node event-streaming framework configured across multiple physical machines to master cluster coordination, worker synchronization, and producer-consumer messaging systems.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### 💬 Automated Messaging Integration
+A customized pipeline integrating specialized WhatsApp service APIs into background schedulers to deliver reliable automated notifications.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKA2114SH&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKA2114SH&layout=compact&theme=dark)
+## 🤝 Connect with Me
+- **Email:** akashkhatale2114@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/akash-khatale/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+---
+*“Simplicity is the soul of efficiency.”* Let's build something scalable!
